@@ -1,0 +1,24 @@
+{
+  "name": "hapi-amqplib-plugin",
+  "version": "1.0.0",
+  "description": "A plugin to use with Hapijs to allow creation of exchanges, queues and to consume/plubish through handlers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amqp",
+    "rabbitmq",
+    "rabbit",
+    "hapi",
+    "hapijs"
+  ],
+  "author": "Jeffrey Soriano <jeffreysoriano5@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "amqplib": "^0.4.0",
+    "async": "^1.5.0",
+    "hapi": "^11.1.0",
+    "hoek": "^3.0.1"
+  }
+}
