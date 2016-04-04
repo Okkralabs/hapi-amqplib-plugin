@@ -1,6 +1,6 @@
 {
   "name": "hapi-amqplib-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A plugin to use with Hapijs to allow creation of exchanges, queues and to consume/plubish through handlers",
   "main": "lib/index.js",
   "scripts": {
